@@ -14,3 +14,4 @@ username=username.toLowerCase;
 
 phone= phone.replaceAll("-","");
 console.log(phone);
+
