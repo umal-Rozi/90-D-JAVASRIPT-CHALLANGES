@@ -1,0 +1,17 @@
+
+#countlabel{
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    padding-top: 10%;
+}
+#dec,
+#res,
+#inc{
+    text-align: right;
+   align-items: center;
+    justify-content: center;
+    font-size: 30px; 
+}
