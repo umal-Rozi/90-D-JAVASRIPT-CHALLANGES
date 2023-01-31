@@ -1,0 +1,24 @@
+
+
+
+body{
+    background: rgb(68, 68, 68);
+}
+
+
+#inc,
+#dec
+{
+    display: block;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    
+    color: black;
+}
+#mylabel{
+    display: block;
+    font-size: 80px;
+    color: white;
+}
+
