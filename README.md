@@ -23,5 +23,5 @@ How to contribute to the project, including a code of conduct and guidelines for
 The license under which the project is released.
 
 ## Authors
-List of contributors and their roles in the project.
+List of contributors and their roles in the project...
 
