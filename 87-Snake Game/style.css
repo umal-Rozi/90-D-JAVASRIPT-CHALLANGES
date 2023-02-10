@@ -1,0 +1,21 @@
+
+#gameBoard{
+    border: 3px solid ;
+
+}
+#gameContainer{
+    text-align: center;
+}
+#scoreText{
+    font-weight: "permanent marker", cursive;
+    font-size: 100px; 
+}
+#resetBtn{
+    font-weight: "permanent marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid ;
+    border-radius: 15px;
+    cursor: pointer;
+}

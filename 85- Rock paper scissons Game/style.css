@@ -1,0 +1,20 @@
+
+#gamediv{
+    font-family: 'brush scrpt', cursive;
+    border: 3px solid ;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(30, 38, 41);
+    color: yellow;
+    text-align: center;
+}
+.choicebtn{
+    line-height: 30px;
+    width: 150px;
+    border: 10px;
+    border-radius: 20px;
+    color: black;
+    background-color: rgb(180, 213, 224) ;
+    font-size: 20px;
+    font-weight: 10%;
+}
