@@ -1,4 +1,5 @@
-# 90-D-JAVASRIPT-CHALLANGES
+# 90-D-JAVASRIPT-CHALLANGES....
+
 # Getting Started with full javascript 
 
 # full javascript 
@@ -20,10 +21,12 @@ Instructions on how to use the project, including how to run the code and any ex
 How to contribute to the project, including a code of conduct and guidelines for submitting pull requests.
 
 ## License
-The license under which the project is released.////
+The license under which the project is released.
 
 ## Authors
-List of contributors and their roles in the project.....
+List of contributors and their roles in the project.......
+
+
 
 
 
