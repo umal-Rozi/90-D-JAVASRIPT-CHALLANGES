@@ -2,7 +2,7 @@
 
 # Getting Started with full javascript 
 
-# full javascript 
+# javascript 
 A brief description of your project, what it does and why it's important.
 
 ## Getting Started
