@@ -1,4 +1,4 @@
-# 90-D-JAVASRIPT-CHALLANGES...
+# 90-D-JAVASRIPT-CHALLANGES.
 
 #  full javascript 
 
