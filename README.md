@@ -26,6 +26,9 @@ The license under which the project is released.
 ## Authors
 List of contributors and their roles in the project....
 
+waa dhamaan qaybihii ugu muhiimsanaa javascript 
+taa soo summer aad u fiican ku sameyayy
+
 
 
 
