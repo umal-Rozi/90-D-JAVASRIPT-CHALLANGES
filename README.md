@@ -3,7 +3,8 @@
 #  full javascript 
 
 # javascript 
-A brief description of your project, what it does and why it's important.
+waxay ka kooban tahay dhaman qaybah javaScript oo dhan waxan si koban ugu hadalany javaScript 
+iyo aan ka eegynoh base ay leedahay 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
